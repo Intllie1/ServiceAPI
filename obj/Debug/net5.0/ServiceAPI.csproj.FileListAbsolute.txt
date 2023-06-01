@@ -1,0 +1,6 @@
+D:\Jayesh\Dotnet\Component\ServiceAPI\obj\Debug\net5.0\ServiceAPI.csproj.AssemblyReference.cache
+D:\Jayesh\Dotnet\Component\ServiceAPI\obj\Debug\net5.0\ServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayesh\Dotnet\Component\ServiceAPI\obj\Debug\net5.0\ServiceAPI.AssemblyInfoInputs.cache
+D:\Jayesh\Dotnet\Component\ServiceAPI\obj\Debug\net5.0\ServiceAPI.AssemblyInfo.cs
+D:\Jayesh\Dotnet\Component\ServiceAPI\obj\Debug\net5.0\ServiceAPI.csproj.CoreCompileInputs.cache
+D:\Jayesh\Dotnet\Component\ServiceAPI\obj\Debug\net5.0\ServiceAPI.MvcApplicationPartsAssemblyInfo.cache
